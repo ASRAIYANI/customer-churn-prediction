@@ -4,6 +4,14 @@
 
 # An end-to-end machine learning project that predicts whether a customer is likely to churn based on customer demographics, account information, service usage, and support interactions.
 
+## Live Demo
+
+🚀 **Try the deployed application:**  
+https://customer-churn-prediction-asraiyani.streamlit.app/
+
+💻 **GitHub Repository:**  
+https://github.com/ASRAIYANI/customer-churn-prediction
+
 # 
 
 # The project covers the complete machine learning workflow from data exploration and preprocessing to model comparison, evaluation, and deployment through an interactive Streamlit application.
