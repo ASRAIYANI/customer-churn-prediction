@@ -7,7 +7,7 @@
 ## Live Demo
 
 🚀 **Try the deployed application:**  
-https://customer-churn-prediction-asraiyani.streamlit.app/
+https://asraiyani-customer-churn-prediction.streamlit.app/
 
 💻 **GitHub Repository:**  
 https://github.com/ASRAIYANI/customer-churn-prediction
