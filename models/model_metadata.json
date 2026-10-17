@@ -1,0 +1,27 @@
+{
+  "selected_model": "Random Forest",
+  "target_column": "churn",
+  "excluded_columns": [
+    "customer_id"
+  ],
+  "feature_columns": [
+    "age",
+    "tenure_months",
+    "monthly_charges",
+    "contract",
+    "internet_service",
+    "tech_support",
+    "online_security",
+    "payment_method",
+    "senior_citizen",
+    "support_calls"
+  ],
+  "positive_class": 1,
+  "random_state": 42,
+  "split": {
+    "train": 0.6,
+    "validation": 0.2,
+    "test": 0.2
+  },
+  "selection_metric": "validation F1"
+}

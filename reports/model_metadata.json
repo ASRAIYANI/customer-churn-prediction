@@ -1,0 +1,23 @@
+{
+  "selected_model": "Random Forest",
+  "target_column": "churn",
+  "excluded_columns": [
+    "customer_id"
+  ],
+  "feature_columns": [
+    "age",
+    "tenure_months",
+    "monthly_charges",
+    "contract",
+    "internet_service",
+    "tech_support",
+    "online_security",
+    "payment_method",
+    "senior_citizen",
+    "support_calls"
+  ],
+  "positive_class": 1,
+  "random_state": 42,
+  "test_size": 0.2,
+  "selection_note": "Exploratory baseline: selected using test F1. Use validation data or cross-validation for final model selection."
+}
